@@ -1,6 +1,6 @@
 # Learn With Project
 <h3><strong>Self Project</strong></h3>
-https://github.com/fadilwiharto/Self-Learn-by-Project/blob/main/Handmade%20%3AD/Random%20Number%20Generator.py
+
 <ul>
 <li><a href="https://github.com/fadilwiharto/Self-Learn-by-Project/blob/main/Handmade%20%3AD/Random%20Number%20Generator.py">Random Number Generator</li>
 </ul>
