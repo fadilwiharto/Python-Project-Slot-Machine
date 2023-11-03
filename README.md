@@ -2,7 +2,7 @@
 <h3><strong>Self Project</strong></h3>
 
 <ul>
-  <li><a href".."> Random Number Generator</li>
+  <li><a href"https://github.com/fadilwiharto/Self-Learn-by-Project/blob/main/Handmade%20%3AD/Random%20Number%20Generator.py"> Random Number Generator</li>
 </ul>
 
 <h3><strong>Tech With Tim</strong></h3>
