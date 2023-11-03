@@ -1,4 +1,9 @@
-# Learn With Project - Youtube
+# Learn With Project
+<h3><strong>Self Project</strong></h3>
+
+<ul>
+  <li><a href".."> Random Number Generator</li>
+</ul>
 
 <h3><strong>Tech With Tim</strong></h3>
 
