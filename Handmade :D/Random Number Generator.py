@@ -14,11 +14,13 @@ def add_maximum_number(max_value):
 
 def main():
     while True:
-        print(f"Press Enter to generate a random number. (type Q to quit)")
+        print("Press 'enter' to start the number generator, 'q' to exit")
         user_input = input()
         if user_input.lower() == 'q':
             break
-        max_value = int(input("Please enter the maximum value: "))
+        
+        max_value = int(input("Please enter the maximum value:"))
+        print(f"Press Enter to generate a random number")
         generated_number = generator(max_value)  # Pass the max_value as an argument
         add_maximum_number(max_value)
         print(f"Generated Random Number: {generated_number}")
