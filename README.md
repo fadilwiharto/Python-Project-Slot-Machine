@@ -3,7 +3,7 @@
 
 <ul>
 <li><p>Random Number Generator</p></li>
-<a href="https://github.com/fadilwiharto/Self-Learn-by-Project/blob/main/Handmade%20%3AD/Random%20Number%20Generator.py">Link</a>
+<a href="https://github.com/fadilwiharto/Self-Learn-by-Project/blob/main/Handmade%20%3AD/Random%20Number%20Generator.py">Click To See</a>
 </ul>
 
 <h3><strong>Tech With Tim</strong></h3>
